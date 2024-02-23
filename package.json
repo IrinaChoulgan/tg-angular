@@ -1,0 +1,24 @@
+{
+  "name": "app_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrinaChoulgan/app_angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaChoulgan/app_angular/issues"
+  },
+  "homepage": "https://github.com/IrinaChoulgan/app_angular#readme",
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
